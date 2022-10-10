@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adrimofe
-- 👀 I’m interested in web apps
+- 👀 - I work in NTTDATA as a solution assistant, developing in the backend with Java Spring, making calls with API-REST and all the necessary logic. Development of daemons and batch.
 - 🌱 I’m currently learning JavaScript(Callbacks, Promises and Async) , Java (JPA, Hibernate, Servlet) 
 - 💞️ I’m looking to collaborate on learning projects
 - 📫 How to reach me @adrimfdez
